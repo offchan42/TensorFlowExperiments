@@ -1,7 +1,9 @@
 # TensorFlowExperiments
 
-Critical experiments to understand how TensorFlow behaves at low-level.
+Critical experiments for understanding how TensorFlow behaves at the lowest level
 
-Understanding these experiments can help you fix the critical performance bug or get rid of fear of breaking stuff.
+Understanding these experiments can help you fix the critical performance bug and get rid of fear of breaking stuff.
 
-Please use `nbviewer` to view the jupyuter notebook files: https://nbviewer.jupyter.org/
+## Getting Started
+
+Please use `nbviewer` to view the Jupyter notebook files: https://nbviewer.jupyter.org/
